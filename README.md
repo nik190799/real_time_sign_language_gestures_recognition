@@ -1,1 +1,1 @@
-# oss_lab_assessment
+# REAL TIME SIGN LANGUAGE GESTURES RECOGNITION
